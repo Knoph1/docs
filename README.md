@@ -53,4 +53,5 @@ When using the GitHub logos, be sure to follow the [GitHub logo guidelines](http
 ## Thanks :purple_heart:
 
 Humble thank yoy for good contributions and efforts towards improving the GitHub documentation.
-Are part of our :sparkles: community :sparkles:!
+
+Indeed, you are part of our :sparkles: community :sparkles:!
